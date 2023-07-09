@@ -161,7 +161,6 @@ li {
 
     .container p {
         white-space: normal;
-        padding-right: 20px;
         font-size: 14px;
 
     }
@@ -178,7 +177,8 @@ li {
         margin-bottom: 0px;
         border-radius: 0;
         width: 78vw;
-        height: 100%;
+        height: 100vh;
+
     }
     .two {
         height: 100%;
